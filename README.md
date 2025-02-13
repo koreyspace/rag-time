@@ -37,20 +37,15 @@ RAG Time runs every **Wednesday at 9AM PT** from **March 5th to April 2nd**. Eac
 
 This repository is structured to align with the **5-week RAG Time series**.
 
-1. Clone this repository:
+1. [Fork](https://github.com/microsoft/rag-time/fork) the repository.
+2. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-org/rag-time.git
 cd rag-time
 ```
 
-2. Navigate to a journey folder to explore topics and sample code.
-
-```bash
-cd Journey 1 - RAG and Indexing Fundamentals
-```
-
-3. Follow the Journey README Instructions. Each journey contains:
+3. Navigate to the Journey of your choice and follow the README Instructions. Each journey contains:
 - ✅ README.md with topic breakdowns
 - ✅ Sample Code to explore RAG concepts
 - ✅ Setup Instructions to run the demos
