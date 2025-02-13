@@ -3,7 +3,7 @@
 ![RAG Time Banner](./images/banner-rag-time.png)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/microsoft/rag-time.svg?style=social&label=Watch)](https://GitHub.com/microsoft/rag-time/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/rag-time.svg?style=social&label=Fork)](https://GitHub.com/microsoft/rag-time/network)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/rag-time.svg?style=social&label=Fork)](https://github.com/microsoft/rag-time/fork)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/rag-time?style=social&label=Star)](https://GitHub.com/microsoft/rag-time/stargazers)
 
 [![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
