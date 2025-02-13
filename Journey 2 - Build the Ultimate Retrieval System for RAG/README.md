@@ -24,7 +24,7 @@ Building a retrieval system involves more than just storing data—it requires s
 
 A visual summary of key takeaways is available to reinforce learning.
 
-![Doodle summary of Journey 2]()
+![Doodle summary journey 2](./../images/visuals/J2-recap.png)
 
 ## 📂 Sample Code
 

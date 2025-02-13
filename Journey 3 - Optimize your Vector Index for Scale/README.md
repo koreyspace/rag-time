@@ -24,7 +24,7 @@ The size and precision of vector embeddings play a major role in AI efficiency. 
 
 A visual summary of key takeaways is available to reinforce learning.
 
-![Doodle Summary Journey 3]()
+![Doodle summary journey 3](./../images/visuals/J3-recap.png)
 
 ## 📂 Sample Code
 
