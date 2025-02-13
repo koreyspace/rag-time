@@ -24,7 +24,7 @@ Indexing is the backbone of AI retrieval. Without it, AI systems would struggle 
 
 A visual summary of key takeaways is available to reinforce learning.
 
-![Doodle summary journey 1]()
+![Doodle summary journey 1](./../images/visuals/J1-recap.png)
 
 ## 📂 Sample Code
 
