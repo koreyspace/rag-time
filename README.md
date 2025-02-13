@@ -2,6 +2,12 @@
 
 ![RAG Time Banner](./images/banner-rag-time.png)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/rag-time.svg?style=social&label=Watch)](https://GitHub.com/microsoft/rag-time/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/rag-time.svg?style=social&label=Fork)](https://GitHub.com/microsoft/rag-time/network)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/rag-time?style=social&label=Star)](https://GitHub.com/microsoft/rag-time/stargazers)
+
+[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
+
 🎉 Welcome to **RAG Time**, a 5-week AI learning series where **Retrieval-Augmented Generation (RAG)** meets innovation! This repository is your companion to the v**ideo series, containing code samples, step-by-step guides,** and **resources** to help you master RAG concepts.
 
 ## Overview
