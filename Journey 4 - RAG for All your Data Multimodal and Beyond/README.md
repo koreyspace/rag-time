@@ -26,7 +26,7 @@ Advanced query techniques like multi-vector search, cross-field vector search, a
 
 A visual summary of key takeaways is available to reinforce learning.
 
-![Doodle summary Journey 4]()
+![Doodle summary journey 4](./../images/visuals/J4-recap.png)
 
 ## 📂 Sample Code
 

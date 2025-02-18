@@ -28,7 +28,7 @@ Ensuring fairness, transparency, and accountability in AI workflows is crucial. 
 
 A visual summary of key takeaways is available to reinforce learning.
 
-![doodle summary Journey 5]()
+![Doodle summary journey 5](./../images/visuals/J5-recap.png)
 
 ## 📂 Sample Code
 
