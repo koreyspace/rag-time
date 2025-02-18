@@ -1,6 +1,6 @@
 # Journey 2: Building the Ultimate Retrieval System for RAG
 
-![Journey 2 Context](./../images/journey2.png)
+![Journey 2 Context](./../images/2.png)
 
 ## Overview
 

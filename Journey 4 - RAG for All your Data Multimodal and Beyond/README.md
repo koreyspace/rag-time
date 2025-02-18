@@ -1,6 +1,6 @@
 # Journey 4: RAG for All Your Data – Multimodal and Beyond
 
-![Journey 4 Context](./../images/journey4.png)
+![Journey 4 Context](./../images/j4.png)
 
 ## Overview
 

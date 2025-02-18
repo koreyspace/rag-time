@@ -1,6 +1,6 @@
 # Journey 3: Optimizing Your Vector Index for Scale
 
-![Journey 3 Context](./../images/journey3.png)
+![Journey 3 Context](./../images/j3.png)
 
 ## Overview
 
