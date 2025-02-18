@@ -1,6 +1,6 @@
 # Journey 1: RAG and Indexing Fundamentals
 
-![Journey 1 Context](./../images/journey1.png)
+![Journey 1 Context](./../images/j1.png)
 
 ## Overview
 

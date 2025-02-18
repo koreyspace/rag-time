@@ -1,6 +1,6 @@
 # Journey 5: Hero Use Cases for RAG
 
-![Journey 5 Context](./../images/journey5.png)
+![Journey 5 Context](./../images/j5.png)
 
 ## Overview
 
