@@ -34,7 +34,6 @@ To get hands-on experience, explore the sample implementation in the 📂 [Journ
 
 ## 🔗 Additional Learning Resources
 
-- 📖 Blog post
 - 📚 Azure AI Search Documentation: [Learn more](https://learn.microsoft.com/en-us/azure/search/)
 
 💬 Join the Discussion: Connect with the community in GitHub Discussions or open an issue in this repository.
