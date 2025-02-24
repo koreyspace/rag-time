@@ -8,7 +8,7 @@
 
 [![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/REmjGvvFpW)
 
-🎉 Welcome to **RAG Time**, a 5-week AI learning series where **Retrieval-Augmented Generation (RAG)** meets innovation! This repository is your companion to the **video series, containing code samples, step-by-step guides,** and **resources** to help you master RAG concepts.
+🎉 Welcome to **RAG Time**, a 5 journey AI learning series where **Retrieval-Augmented Generation (RAG)** meets innovation! This repository is your companion to the **video series, containing code samples, step-by-step guides,** and **resources** to help you master RAG concepts.
 
 The RAG Time series aims to:
 
